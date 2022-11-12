@@ -1,5 +1,5 @@
-import './quiz.scss'
 import React, {useState} from "react";
+// import './quiz.scss'
 
 const questions = [
     {

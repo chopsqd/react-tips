@@ -1,5 +1,5 @@
 import React, {useState} from 'react';
-// import './modal.scss'
+// import './usersList.scss'
 
 function Modal() {
     const [open, setOpen] = useState(false)
