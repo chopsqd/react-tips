@@ -1,7 +1,7 @@
 import React, {useEffect, useState} from 'react';
-import './usersList.scss';
 import {Success} from './components/Success';
 import {Users} from './components/Users';
+// import './usersList.scss';
 
 function UsersList() {
     const [users, setUsers] = useState([])
