@@ -1,6 +1,6 @@
 import React, {useEffect, useRef, useState} from 'react';
 import {Block} from "./Block";
-import './converter.scss'
+// import './converter.scss'
 
 function Converter() {
     const [fromCurrency, setFromCurrency] = useState('USD')

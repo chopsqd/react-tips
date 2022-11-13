@@ -3,6 +3,7 @@ import Modal from "./projects/Modal/Modal";
 import Quiz from "./projects/Quiz/Quiz";
 import UsersList from "./projects/UsersList/UsersList";
 import Converter from "./projects/Converter/Converter";
+import Photos from "./projects/Photos/Photos";
 
 function App() {
     // todo Add side menu
@@ -11,7 +12,8 @@ function App() {
             {/*<UsersList/>*/}
             {/*<Quiz />*/}
             {/*<UsersList />*/}
-            <Converter />
+            {/*<Converter />*/}
+            <Photos />
         </div>
     );
 }
