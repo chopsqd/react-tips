@@ -6,7 +6,6 @@ import Converter from "./projects/Converter/Converter";
 import Photos from "./projects/Photos/Photos";
 
 function App() {
-    // todo Add side menu
     return (
         <div>
             {/*<UsersList/>*/}
